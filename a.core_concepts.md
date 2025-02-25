@@ -21,6 +21,8 @@ kubectl create namespace mynamespace
 kubectl run nginx --image=nginx --restart=Never -n mynamespace
 ```
 
+##completed on 25Feb25
+
 </p>
 </details>
 
