@@ -21,7 +21,7 @@ kubectl create namespace mynamespace
 kubectl run nginx --image=nginx --restart=Never -n mynamespace
 ```
 
-##completed on 25Feb25
+##vivin completed on 25Feb25
 ##testing commit from windows machine
 
 </p>
@@ -61,6 +61,7 @@ spec:
   restartPolicy: Never
 status: {}
 ```
+##vivin completed on 26Feb25
 
 ```bash
 kubectl create -f pod.yaml
